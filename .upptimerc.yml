@@ -12,7 +12,7 @@ assignees:
 skipDeleteIssues: true
 
 status-website:
-  theme: dark
+  theme: night
   cname: status.blackshade.tech
   logoUrl: https://avatars.githubusercontent.com/u/68154631?v=4
   name: BlackShade
